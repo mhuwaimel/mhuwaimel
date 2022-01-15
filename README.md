@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **react ,vue**
 
-- 👨‍💻 All of my projects are available at [https://mohammadh.me/](https://mohammedh.me/)
+- 👨‍💻 All of my projects are available at [https://mohammadh.me/](https://mohammadh.me/)
 
-- 📝 I regularly write articles on [mohammadh.me](mohammedh.me)
+- 📝 I regularly write articles on [mohammadh.me](mohammadh.me)
 
 - 💬 Ask me about **.Net Core**
 
