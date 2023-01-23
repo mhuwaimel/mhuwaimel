@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alhuwaimel.m@gmail.com**
 
-- 📄 Know about my experiences [https://mohammadh.me/Resume](https://mohammedh.me/Resume)
+- 📄 Know about my experiences [https://mohammadh.me/Resume](https://mohammadh.me/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
