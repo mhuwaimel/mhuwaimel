@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed AlHuwaimel</h1>
-<h3 align="center">Teacher, .NET developer,ASP.NET MVC Core From Saudi Arabia</h3>
+<h3 align="center">Teacher, somtimes .NET developer,ASP.NET MVC Core From Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhuwaimel&label=Profile%20views&color=0e75b6&style=flat" alt="mhuwaimel" /> </p>
 
