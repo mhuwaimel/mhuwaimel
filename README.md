@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **react ,vue**
 
-- 👨‍💻 All of my projects are available at [https://mohammadh.me/](https://mohammadh.me/)
+- 👨‍💻 All of my projects are available at [https://mhuwaimel.vercel.app/](https://mohammadh.me/)
 
-- 📝 I regularly write articles on [mohammadh.me](mohammadh.me)
+- 📝 I regularly write articles on [https://mhuwaimel.vercel.app/](mohammadh.me)
 
 - 💬 Ask me about **.Net Core**
 
 - 📫 How to reach me **alhuwaimel.m@gmail.com**
 
-- 📄 Know about my experiences [https://mohammadh.me/Resume](https://mohammadh.me/Resume)
+- 📄 Know about my experiences [https://mhuwaimel.vercel.app/experience](https://mohammadh.me/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
