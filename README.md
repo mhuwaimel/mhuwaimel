@@ -1,3 +1,8 @@
+
+<h1 align="center">Hi 👋, I'm Mohammed AbdulAziz</h1>
+<h3 align="center">Teacher, somtimes .NET developer,ASP.NET MVC Core,React From Saudi Arabia</h3>
+
+
 # 💫 About Me:
  🌱 I’m currently learning **react ,vue,nextjs**<br><br>- 👨‍💻 All of my projects are available at [https://mohammadh.me](https://mhuwaimel.vercel.app/)<br><br>- 📝 I regularly write articles on [https://mohammadh.me](https://mhuwaimel.vercel.app/)<br><br>- 💬 Ask me about **.Net Core**<br><br>- 📫 How to reach me **alhuwaimel.m@gmail.com**<br><br>- 📄 Know about my experiences [https://mohammadh.me/Resume](https://mhuwaimel.vercel.app/experience)<br>
 
