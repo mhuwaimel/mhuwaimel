@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed AbdulAziz</h1>
-<h3 align="center">Teacher, somtimes .NET developer,ASP.NET MVC Core,React From Saudi Arabia</h3>
+<h3 align="center">Teacher, somtimes .NET developer,ASP.NET MVC Core, React, Next.js, Python</h3>
 
 
 # 💫 About Me:
