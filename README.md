@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
- 🌱 I’m currently learning **react ,vue,nextjs**<br><br>- 👨‍💻 All of my projects are available at [https://mohammadh.me](https://mhuwaimel.vercel.app/)<br><br>- 📝 I regularly write articles on [https://mohammadh.me](https://mhuwaimel.vercel.app/)<br><br>- 💬 Ask me about **.Net Core**<br><br>- 📫 How to reach me **alhuwaimel.m@gmail.com**<br><br>- 📄 Know about my experiences [https://mohammadh.me/Resume](https://mhuwaimel.vercel.app/experience)<br>
+ 🌱 I’m currently learning **react ,vue,nextjs**<br><br>- 👨‍💻 All of my projects are available at [https://mohammadh.sa](https://mohammedh.sa/)<br><br>- 📝 I regularly write articles on [https://mohammadh.sa](https://mohammedh.sa/)<br><br>- 💬 Ask me about **.Net Core**<br><br>- 📫 How to reach me **alhuwaimel.m@gmail.com**<br><br>- 📄 Know about my experiences [https://mohammadh.sa/Resume](https://mohammedh.sa/experience)<br>
 
 
 ## 🌐 Socials:
