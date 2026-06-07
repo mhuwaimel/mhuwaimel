@@ -1,5 +1,6 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Mohammed AbdulAziz</h1><br><h3 align="center">Teacher, somtimes .NET developer,ASP.NET MVC Core, React, Next.js, Python</h3><br><br> 🌱 I’m currently learning **react ,vue,nextjs**<br><br>- 👨‍💻 All of my projects are available at [https://mohammadh.sa](https://mohammedh.sa/)<br><br>- 📝 I regularly write articles on (https://mohammedh.sa/)<br><br>- 💬 Ask me about **.Net Core**<br><br>- 📫 How to reach me **alhuwaimel.m@gmail.com**<br><br>- 📄 Know about my experiences (https://mohammedh.sa/experience)<br>
+<h1 align="center">Hi 👋, I'm Mohammed AbdulAziz</h1><br><h3 align="center">Teacher, somtimes .NET developer,ASP.NET MVC Core, React, Next.js, Python</h3><br><br> 🌱 I’m currently learning **react ,vue,nextjs**<br><br>- 👨‍💻 All of my projects are available at [mohammedh.sa](https://mohammadh.sa)
+<br><br>- 📝 I regularly write articles on (https://mohammedh.sa/)<br><br>- 💬 Ask me about **.Net Core**<br><br>- 📫 How to reach me **alhuwaimel.m@gmail.com**<br><br>- 📄 Know about my experiences (https://mohammedh.sa/experience)<br>
 
 
 ## 🌐 Socials:
